@@ -1,6 +1,5 @@
 # 🚀 Despliegue de Stack de Observabilidad (Prometheus + Grafana) en Minikube
 
-**Fecha de documentación:** 2025-10-21
 
 ---
 
